@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="barcode10" size="100.000000 44.247787" />
+    <ImageTarget name="barcode9" size="100.000000 44.247787" />
+    <ImageTarget name="barcode8" size="100.000000 44.247787" />
+    <ImageTarget name="barcode7" size="100.000000 44.247787" />
+    <ImageTarget name="barcode6" size="100.000000 44.247787" />
+    <ImageTarget name="barcode5" size="100.000000 44.247787" />
+    <ImageTarget name="barcode4" size="100.000000 44.247787" />
+    <ImageTarget name="barcode3" size="100.000000 44.247787" />
+    <ImageTarget name="barcode2" size="100.000000 44.247787" />
+    <ImageTarget name="barcode1" size="100.000000 44.247787" />
+  </Tracking>
+</QCARConfig>
